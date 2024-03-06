@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { Link, useNavigate } from 'react-router-dom'
 import { register, logIn } from '../api/methods'
 import PropTypes from 'prop-types'

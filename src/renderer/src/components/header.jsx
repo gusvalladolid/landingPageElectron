@@ -1,13 +1,12 @@
-/* eslint-disable prettier/prettier */
 import { Bars3BottomRightIcon, XMarkIcon } from '@heroicons/react/24/solid'
 import { Link } from 'react-router-dom'
 import PropTypes from 'prop-types'
 import { useState } from 'react'
 
-const Header = ({ loggedUser }) => {
-  const {username} = loggedUser || {}; 
+const Header = ({ loggedUser = ""}) => {
+  const {username} = loggedUser || ""; 
   console.log("ESTE ES EL USERNAME", username);
-  const Links = [{ name: 'About us', link: '/' }]
+  const Links = [{}]
 
   const [isOpen, setIsOpen] = useState(false)
 
