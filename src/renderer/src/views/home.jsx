@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import { useLocation } from 'react-router-dom'
-import video from '../assets/video.mp4'
+import video from '../assets/FelisseTeaser.mp4'
 import Header from '../components/header'
 import Content from '../components/content'
 import Footer from '../components/footer'
