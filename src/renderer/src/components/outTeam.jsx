@@ -1,12 +1,12 @@
 /* eslint-disable prettier/prettier */
-import alejandroImage from "../assets/team/pumpum.jpg"
-import kevinImage from "../assets/team/Kevin.png"
-import joshuaImage from "../assets/team/Joshua.png"
-import gustavoImage from "../assets/team/gustavo.png"
-import fabianImage from "../assets/team/fabian.jpg"
-import miguelImage from "../assets/team/velarde.jpg"
-import alexImage from "../assets/team/alex.png"
-import gamboaImage from "../assets/team/gamboa.jpg"
+import alejandroImage from "../assets/Img/pumpum.jpg"
+import kevinImage from "../assets/Img/Kevin.png"
+import joshuaImage from "../assets/Img/Joshua.png"
+import gustavoImage from "../assets/Img/gustavo.png"
+import fabianImage from "../assets/Img/fabian.jpg"
+import miguelImage from "../assets/Img/velarde.jpg"
+import alexImage from "../assets/Img/alex.png"
+import gamboaImage from "../assets/Img/gamboa.jpg"
 
 const people = [
   {
